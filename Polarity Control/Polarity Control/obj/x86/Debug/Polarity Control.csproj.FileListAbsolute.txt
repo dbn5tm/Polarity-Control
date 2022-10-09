@@ -1,0 +1,21 @@
+c:\users\bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\bin\Debug\Polarity Control.exe
+c:\users\bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\bin\Debug\Polarity Control.pdb
+c:\users\bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Debug\Polarity_Control.AntennaPolarityControl.resources
+c:\users\bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Debug\Polarity_Control.Properties.Resources.resources
+c:\users\bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Debug\Polarity Control.csproj.GenerateResource.Cache
+c:\users\bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Debug\Polarity Control.exe
+c:\users\bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Debug\Polarity Control.pdb
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Debug\Polarity Control.csprojResolveAssemblyReference.cache
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\bin\Debug\Polarity Control.exe.config
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Debug\Polarity Control.exe
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Debug\Polarity Control.pdb
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\bin\Debug\Polarity Control.exe
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\bin\Debug\Polarity Control.pdb
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Debug\Polarity Control.csprojResolveAssemblyReference.cache
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Debug\Polarity_Control.AboutBox1.resources
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Debug\Polarity_Control.AzElform.resources
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Debug\Polarity_Control.AntennaPolarityControl.resources
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Debug\Polarity_Control.SetupForm.resources
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Debug\Polarity_Control.NoiseScanform.resources
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Debug\Polarity_Control.Properties.Resources.resources
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Debug\Polarity Control.csproj.GenerateResource.Cache

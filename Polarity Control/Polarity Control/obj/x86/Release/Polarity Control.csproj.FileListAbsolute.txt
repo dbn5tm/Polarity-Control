@@ -1,0 +1,67 @@
+C:\Users\Bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\bin\Release\Polarity Control.exe.config
+C:\Users\Bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\bin\Release\Polarity Control.exe
+C:\Users\Bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\bin\Release\Polarity Control.pdb
+C:\Users\Bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.AboutBox1.resources
+C:\Users\Bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.AntennaPolarityControl.resources
+C:\Users\Bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.SetupForm.resources
+C:\Users\Bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.NoiseScanform.resources
+C:\Users\Bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.Properties.Resources.resources
+C:\Users\Bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.csproj.GenerateResource.Cache
+C:\Users\Bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.exe
+C:\Users\Bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.pdb
+C:\Users\Bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.csprojResolveAssemblyReference.cache
+C:\Users\Bill\documents\visual studio 2010\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.AzElform.resources
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\bin\Release\Polarity Control.exe.config
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.exe
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.pdb
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\bin\Release\Polarity Control.exe
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\bin\Release\Polarity Control.pdb
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.AboutBox1.resources
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.AzElform.resources
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.AntennaPolarityControl.resources
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.SetupForm.resources
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.NoiseScanform.resources
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.Properties.Resources.resources
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.csproj.GenerateResource.Cache
+C:\Users\Dev\Desktop\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.csprojResolveAssemblyReference.cache
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\bin\Release\Polarity Control.exe.config
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\bin\Release\Polarity Control.exe.manifest
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\bin\Release\Polarity Control.application
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\bin\Release\Polarity Control.exe
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\bin\Release\Polarity Control.pdb
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.AboutBox1.resources
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.AzElform.resources
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.AntennaPolarityControl.resources
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.SetupForm.resources
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.NoiseScanform.resources
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.Properties.Resources.resources
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.csproj.GenerateResource.Cache
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.exe.manifest
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.application
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.exe
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.pdb
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.csprojResolveAssemblyReference.cache
+C:\Users\dan\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\bin\Release\Polarity Control.exe.config
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\bin\Release\Polarity Control.exe.manifest
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\bin\Release\Polarity Control.application
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\bin\Release\Polarity Control.exe
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\bin\Release\Polarity Control.pdb
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\bin\Release\Microsoft.ReportViewer.WinForms.xml
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.AboutBox1.resources
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.AzElform.resources
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.AntennaPolarityControl.resources
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.SetupForm.resources
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.NoiseScanform.resources
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity_Control.Properties.Resources.resources
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.exe.manifest
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.application
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.exe
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.pdb
+E:\Documents\Visual Studio 2017\Projects\Polarity Control\Polarity Control\obj\x86\Release\Polarity Control.csprojAssemblyReference.cache

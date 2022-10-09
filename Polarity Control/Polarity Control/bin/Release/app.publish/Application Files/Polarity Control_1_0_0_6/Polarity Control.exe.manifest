@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Polarity Control.exe" version="1.0.0.6" publicKeyToken="6f9219acf92f05e4" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Polarity Control" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Polarity Control.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.ReportViewer.Common.dll" size="6391672">
+      <assemblyIdentity name="Microsoft.ReportViewer.Common" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>JkA25Av6n+2C1n0smnudC+VwzTo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.ReportViewer.WinForms.dll" size="548224">
+      <assemblyIdentity name="Microsoft.ReportViewer.WinForms" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>5F6aT03ed2E6iC5r7BkGwIRlbfI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Polarity Control.exe" size="126328">
+      <assemblyIdentity name="Polarity Control" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>MWYEXi8DrnpXs5WBnPeUnx8m9DE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Polarity Control.exe.config" size="4420">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>4UD7rsSezCP8VhVuShvHZ2eo18o=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=dan-HP\dan" issuerKeyHash="a7a132f58a5c398dc8d58ec393cf99cce68e0bd1" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>V+wcDhN7o1RpWcvyGhjva3MWQd0=</DigestValue></Reference></SignedInfo><SignatureValue>UiXBcrrpEq1syEm4XK4yaUYKiLa1Q/xJ/wgK18Y52iVHc5X+30vrgCf9A/i+ZbbkwXN4Yt1j02ibkc2bpaslxrCEN80HBIK9eoIBV+VDtR7SxxUm1NBDDMKT0upMvl/MJhaC01bX2gnmIaJ7+VyV+L4P7ZjZwJuLi0RCmOs7ovs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>mg6qhTwMQLBnU3dyTO3Z8QQiIBkUQLm8Ln+F9Z3BPflkYod72wsB43EE5MCI5jmcYV5MM5H+VB5Tq1CeIPJQTCapdNvE/L4r9MGgpxPVuROn5fmg61ZHPRUSQo2KnNSdPM62i+0n1gJ0UWS7QLyu4oz5yVEcxFTkOYfnTP51Ezk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="dd4116736bef181af2cb596954a37b130e1cec57" Description="" Url=""><as:assemblyIdentity name="Polarity Control.exe" version="1.0.0.6" publicKeyToken="6f9219acf92f05e4" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=dan-HP\dan</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>wexKuCuCo7XojEeJfUoNSIRY4PQ=</DigestValue></Reference></SignedInfo><SignatureValue>i9Q+skijT6jFnaJAl2JZXIM71VRNNF3OjAC4hOIJXEoYMf7kbRNVQT+pXXp48IHer/9LC43BBR0Qagu8IIgLv+VvLd52XPYFR+8Kf7wASHYsR6hpZKFBzcQ3+EzM3Kzwu885sZ5qcl5y3GeFGS9IlYvJHMhnENNp7IDbfew8SYY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>mg6qhTwMQLBnU3dyTO3Z8QQiIBkUQLm8Ln+F9Z3BPflkYod72wsB43EE5MCI5jmcYV5MM5H+VB5Tq1CeIPJQTCapdNvE/L4r9MGgpxPVuROn5fmg61ZHPRUSQo2KnNSdPM62i+0n1gJ0UWS7QLyu4oz5yVEcxFTkOYfnTP51Ezk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQK/Q1b2AjRqlMIRn3c3CasjANBgkqhkiG9w0BAQUFADAfMR0wGwYDVQQDHhQAZABhAG4ALQBIAFAAXABkAGEAbjAeFw0xNzA3MjUwMzM3NThaFw0xODA3MjUwOTM3NThaMB8xHTAbBgNVBAMeFABkAGEAbgAtAEgAUABcAGQAYQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCaDqqFPAxAsGdTd3JM7dnxBCIgGRRAubwuf4X1ncE9+WRih3vbCwHjcQTkwIjmOZxhXkwzkf5UHlOrUJ4g8lBMJql028T8viv0waCnE9W5E6fl+aDrVkc9FRJCjYqc1J08zraL7SfWAnRRZLtAvK7ijPnJURzEVOQ5h+dM/nUTOQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAIPrJ+tCA7JdGinZTi3NKNBmTHc3cL7Ocq9lltvXhnV3JqXmf1BMPgpBd6YEvcwhKOo1dv8bTwJ0zkuwM1t3G8ulvHopE0IAuN/kQyat+CczyMwUWg1pE2RWs+RHYoskpl0V4+ZUFthdMXN7a1oEnxxXT1/Ovwp5DLnDPhj4NyhO</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
